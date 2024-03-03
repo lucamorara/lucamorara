@@ -1,17 +1,17 @@
 <h1>Welcome</h1>
 
-I'm Luca, a 25-year-old enthusiast deeply passionate about programming. Based in Ravenna, I am employed by a Fortune 500 company.
+I'm Luca, a 25-year-old deeply passionate about programming. Based in Ravenna, I am employed by a Fortune 500 company.
 
 ## 🤖 About me
 
 - I enjoy developing mobile apps 📱
   - My favourite programming language is Swift
-  - I love with SwiftUI
+  - I love SwiftUI
 - I began my programming journey with C  💻
   - After that, I got into OOP using Java and C++
   - I then studied SQL, PHP, and JavaScript
-  - This path led me to Swift
-  - Finally, I fully embraced Python.
+  - This led me to Swift
+  - Finally, I learned Python.
  
 ## ⚙️ My skills
 
